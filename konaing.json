@@ -1,15 +1,18 @@
 {
-// version for updating, if there is an update, need to change more numbers than before
-"Version":"1.1",
-//link for server update
-"Url":"" https://github.com/KoNaing13/freenet/raw/main/TH.VIP.zip,
-"Changelog":"vipတစ္လ 50ဘတ္
-",
-// don't mess with the bottom
-"latestVersion": "1.0.0",
-"latestVersionCode": "1",
-"url": "",
- "releaseNotes": [
-  "-Demo"
-    ]
-    }
+   "files": [    
+
+
+{
+         "name": "TH-VIP-002",
+         "url": "https://raw.githubusercontent.com/konainglay1347/KoNaing/main/KN-001.ovpn"
+   }
+
+
+       
+
+
+  ],
+"message":"✅New Servers Update✅\n\n📢VIP ၀ယ်လိုပါက 1လ50ပါ📢\n\n•🚀Fixed All Servers🚀\n•Version:1\n\n•Owner By: KoNaing ",
+   "title":"💙28 August 2023💙" ,
+   "version": 1
+}
